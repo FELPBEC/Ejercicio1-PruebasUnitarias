@@ -1,8 +1,8 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
-
 import org.junit.Test;
 
+//Copilacion con java 25
 public class InventoryItemTest {
 InventoryItem inventoryItem = new InventoryItem("Audifonos", 4, 70000);
 Exception exception= null;
